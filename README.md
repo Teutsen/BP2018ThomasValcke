@@ -1,16 +1,16 @@
 # BP2018ThomasValcke
 ## Bachelor proef
 ### W6: (paper)
-  - [ ] Probleemstelling 
-  - [ ] Onderzoeksvraag
-  - [ ] Onderzoeksdoelstelling
-  - [ ] Opzet van deze Bachelor proef
-  - [ ] Stand van zaken/state of the art Afwerken
+  - [X] Probleemstelling 
+  - [X] Onderzoeksvraag
+  - [X] Onderzoeksdoelstelling
+  - [-] Opzet van deze Bachelor proef
+  - [-] Stand van zaken/state of the art Afwerken
 ### W7: (onderzoek)
-  - [ ] klaarzetten opstelling methodologie (2 Datasets klaarmaken + 2 ML schrijven zowel panda's als pyspark)
+  - [-] klaarzetten opstelling methodologie (2 Datasets klaarmaken + 2 ML schrijven zowel panda's als pyspark)
 ### W8: (onderzoek)
   - [ ] afwerken opstelling 
-  - [ ] neerschrijven methodologie
+  - [-] neerschrijven methodologie
 ### W9: (onderzoek)
   - [ ] Testen uitvoeren/mogelijke problemen oplossen 
   - [ ] Resultaten noteren.
