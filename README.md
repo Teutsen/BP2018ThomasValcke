@@ -4,7 +4,7 @@
   - [X] Probleemstelling 
   - [X] Onderzoeksvraag
   - [X] Onderzoeksdoelstelling
-  - [ ] Opzet van deze Bachelor proef
+  - [X] Opzet van deze Bachelor proef
   - [ ] Stand van zaken/state of the art Afwerken
 ### W7: (onderzoek)
   - [ ] klaarzetten opstelling methodologie (2 Datasets klaarmaken + 2 ML schrijven zowel panda's als pyspark)
