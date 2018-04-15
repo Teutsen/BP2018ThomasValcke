@@ -7,10 +7,10 @@
   - [X] Opzet van deze Bachelor proef
   - [ ] Stand van zaken/state of the art Afwerken
 ### W7: (onderzoek)
-  - [ ] klaarzetten opstelling methodologie (2 Datasets klaarmaken + 2 ML schrijven zowel panda's als pyspark)
+  - [X] klaarzetten opstelling methodologie (2 Datasets klaarmaken + 2 ML schrijven zowel panda's als pyspark)
 ### W8: (onderzoek)
   - [ ] afwerken opstelling 
-  - [ ] neerschrijven methodologie
+  - [X] neerschrijven methodologie
 ### W9: (onderzoek)
   - [ ] Testen uitvoeren/mogelijke problemen oplossen 
   - [ ] Resultaten noteren.
